@@ -1,0 +1,4 @@
+/home/almalinux/anaconda3/envs/py312/bin/python /home/almalinux/PycharmProjects/CS261-Project0-b/system_test.py 
+This is an acceptable version of Python, version 3.12.
+
+Process finished with exit code 0
